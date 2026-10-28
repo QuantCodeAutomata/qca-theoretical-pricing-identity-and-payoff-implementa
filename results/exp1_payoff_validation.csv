@@ -1,0 +1,3 @@
+range,p_a,p_b,compact_piecewise_equiv,max_abs_error,positivity,monotone,concave,v2_exact,g_v2(S_T),g_compact_at_pa,g_piecewise_at_pa,g_compact_at_pb,g_piecewise_at_pb
+"wide (0.7S, 1.4S)",1400.0,2800.0,True,1.4210854715202004e-14,True,True,True,True,89.44271909999159,10.959060757093503,10.95906075709351,15.498452353552395,15.498452353552395
+"narrow (0.8S, 1.2S)",1600.0,2400.0,True,7.105427357601002e-15,True,True,True,True,89.44271909999159,7.340136762890957,7.340136762890957,8.989794855663561,8.989794855663561
